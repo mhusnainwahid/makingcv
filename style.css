@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    background-color: whitesmoke;
+}
+.parent{
+    width: 60%;
+    margin: 80px auto;
+    /* border: 2px solid red; */
+    
+}
+.banner2{
+    /* border: 2px solid black; */
+}
+.main-hd1{
+    /* border: 2px solid red; */
+    /* text-decoration: double underline; */
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-decoration: double underline;
+    
+}
+.main-para{
+    font-size: 18px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+}
+ul{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.main-hd2{
+    text-decoration: double underline;
+}
+.main-hd3{
+    text-decoration: double underline;
+
+}
+.main-para2{
+    font-size: 18px;
+    line-height: 30px;
+    margin-left: 20px;
+}
